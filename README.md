@@ -1,4 +1,4 @@
-## Hi there 👋
+[## Hi there 👋
 
 <!--
 **AnonymousWalker/anonymouswalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+](https://ghstats.dev/api/card?username=anonymouswalker&theme=ayu&border_radius=8&hide=stars%2Cstreak%2Ctrend%2Cactive_day%2Cfollowers%2Cavg%2Cgrade%2Cissues)
